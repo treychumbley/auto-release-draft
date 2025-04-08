@@ -1,14 +1,14 @@
 {
-  "name": "typescript-action",
-  "description": "GitHub Actions TypeScript template",
+  "name": "auto-release-draft",
+  "description": "Drafts a Github Release with the changes introduced by a newly created version tag.",
   "version": "0.0.0",
-  "author": "",
+  "author": "chumbt1",
   "type": "module",
   "private": true,
-  "homepage": "https://github.com/actions/typescript-action",
+  "homepage": "https://github.com/treychumbley/auto-release-draft",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/typescript-action.git"
+    "url": "git+https://github.com/treychumbley/auto-release-draft"
   },
   "bugs": {
     "url": "https://github.com/actions/typescript-action/issues"
